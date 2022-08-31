@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(106, 114, 91);
+    float: left;
+    width: 22%;
+    height: 1023px;
+    border: black 32px solid;
+    padding: 10px;
+    text-align: center;
+
+
+
+}
+img{
+    border-style: solid;
+    border-radius: 564px;
+    width: 60%;
+    height: 517px;
+    
+}
+p{
+    font-size: xx-large;
+   font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+
+}
